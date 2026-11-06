@@ -1,0 +1,6 @@
+*.exe
+src/build.exe
+src/build.log
+src/*.png
+src/ui_*.png
+!src/app.ico
